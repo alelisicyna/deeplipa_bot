@@ -1,3 +1,3 @@
 deepl-translate
-langdetect
 pyTelegramBotAPI
+lingua-language-detector
