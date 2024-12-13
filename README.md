@@ -1,1 +1,1 @@
-# deeplipa_bot
+# DeepL + IPA // Telegram Bot
