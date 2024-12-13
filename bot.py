@@ -41,7 +41,7 @@ class Translator:
         result: str = f'''
 🇷🇺 Russian -> 🇺🇸 English and 🇵🇱 Polish\n\n
 🇺🇸 `{translate_en}`
-🇺🇸 IPA: {translate_en_ipa}\n
+🇺🇸 IPA: {translate_en_ipa}
 🇵🇱 `{translate_pl}`
 🇵🇱 IPA: {translate_pl_ipa}\n\n
 ✂️ Click on the translation text to copy'''
